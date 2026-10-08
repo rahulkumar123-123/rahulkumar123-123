@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="570" height="360" viewBox="0 0 570 360">
+<style>
+.t{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+.k{fill:#7ee787;font-weight:700} .v{fill:#c9d1d9} .sub{fill:#8b949e;font-size:13px}
+.row{opacity:0}
+@keyframes in{from{opacity:0;transform:translateX(12px)}to{opacity:1;transform:translateX(0)}}
+</style>
+<rect width="100%" height="100%" rx="10" fill="#0d1117" stroke="#30363d"/>
+<rect x="0" y="0" width="100%" height="42" rx="10" fill="#161b22"/>
+<circle cx="18" cy="21" r="5" fill="#ff7b72"/><circle cx="36" cy="21" r="5" fill="#d29922"/><circle cx="54" cy="21" r="5" fill="#3fb950"/>
+<text x="72" y="27" class="t" fill="#8b949e" font-size="14">rahul@github:~$ whoami</text>
+<text x="22" y="76" class="t" fill="#58a6ff" font-size="22" font-weight="700">Rahul Kumar</text>
+<text x="22" y="97" class="t sub">machine learning · genai · data · web</text>
+<line x1="22" y1="112" x2="548" y2="112" stroke="#30363d"/>
+<g class="row" style="animation:in .35s ease-out 0.00s forwards"><text x="22" y="140" class="t k" font-size="13">Education</text><text x="115" y="140" class="t v" font-size="13">4th Year B.Tech · Electronics & Communication</text><text x="115" y="155" class="t sub">BIT Mesra, Ranchi</text></g>
+<g class="row" style="animation:in .35s ease-out 0.12s forwards"><text x="22" y="175" class="t k" font-size="13">Focus</text><text x="115" y="175" class="t v" font-size="13">Machine Learning · GenAI · Data Science</text><text x="115" y="190" class="t sub">Full-stack development</text></g>
+<g class="row" style="animation:in .35s ease-out 0.24s forwards"><text x="22" y="210" class="t k" font-size="13">Research</text><text x="115" y="210" class="t v" font-size="13">Illinois Tech · Bioinformatics + ML</text><text x="115" y="225" class="t sub">HPA · TCGA · LINCS L1000</text></g>
+<g class="row" style="animation:in .35s ease-out 0.36s forwards"><text x="22" y="245" class="t k" font-size="13">Experience</text><text x="115" y="245" class="t v" font-size="13">Analytics Intern · MMM Amsterdam</text><text x="115" y="260" class="t sub">Power BI · US market analytics</text></g>
+<g class="row" style="animation:in .35s ease-out 0.48s forwards"><text x="22" y="280" class="t k" font-size="13">Role</text><text x="115" y="280" class="t v" font-size="13">Student Placement Coordinator</text><text x="115" y="295" class="t sub">BIT Mesra</text></g>
+<g class="row" style="animation:in .35s ease-out 0.60s forwards"><text x="22" y="315" class="t k" font-size="13">Projects</text><text x="115" y="315" class="t v" font-size="13">Parkinson’s speech detection</text><text x="115" y="330" class="t sub">Wav2Vec2 · WavLM · GRU · LSTM · SVM</text></g>
+</svg>

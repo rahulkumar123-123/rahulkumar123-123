@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="802" height="510" viewBox="0 0 802 510">
+<rect width="100%" height="100%" rx="8" fill="#0d1117"/>
+<defs><clipPath id="wipe">
+<rect x="10" y="2.5" width="0" height="12.2"><animate attributeName="width" from="0" to="782.0" dur="0.55s" begin="0.000s" fill="freeze"/></rect>
+<rect x="10" y="12.7" width="0" height="12.2"><animate attributeName="width" from="0" to="782.0" dur="0.55s" begin="0.035s" fill="freeze"/></rect>
+<rect x="10" y="22.9" width="0" height="12.2"><animate attributeName="width" from="0" to="782.0" dur="0.55s" begin="0.070s" fill="freeze"/></rect>
+<rect x="10" y="33.1" width="0" height="12.2"><animate attributeName="width" from="0" to="782.0" dur="0.55s" begin="0.105s" fill="freeze"/></rect>
+<rect x="10" y="43.3" width="0" height="12.2"><animate attributeName="width" from="0" to="782.0" dur="0.55s" begin="0.140s" fill="freeze"/></rect>
+<rect x="10" y="53.5" width="0" height="12.2"><animate attributeName="width" from="0" to="782.0" dur="0.55s" begin="0.175s" fill="freeze"/></rect>
+<rect x="10" y="63.7" width="0" height="12.2"><animate attributeName="width" from="0" to="782.0" dur="0.55s" begin="0.210s" fill="freeze"/></rect>
+<rect x="10" y="73.9" width="0" height="12.2"><animate attributeName="width" from="0" to="782.0" dur="0.55s" begin="0.245s" fill="freeze"/></rect>
+<rect x="10" y="84.1" width="0" height="12.2"><animate attributeName="width" from="0" to="782.0" dur="0.55s" begin="0.280s" fill="freeze"/></rect>
+<rect x="10" y="94.3" width="0" height="12.2"><animate attributeName="width" from="0" to="782.0" dur="0.55s" begin="0.315s" fill="freeze"/></rect>
+<rect x="10" y="104.5" width="0" height="12.2"><animate attributeName="width" from="0" to="782.0" dur="0.55s" begin="0.350s" fill="freeze"/></rect>
+<rect x="10" y="114.7" width="0" height="12.2"><animate attributeName="width" from="0" to="782.0" dur="0.55s" begin="0.385s" fill="freeze"/></rect>
+<rect x="10" y="124.9" width="0" height="12.2"><animate attributeName="width" from="0" to="782.0" dur="0.55s" begin="0.420s" fill="freeze"/></rect>
+<rect x="10" y="135.1" width="0" height="12.2"><animate attributeName="width" from="0" to="782.0" dur="0.55s" begin="0.455s" fill="freeze"/></rect>
+<rect x="10" y="145.3" width="0" height="12.2"><animate attributeName="width" from="0" to="782.0" dur="0.55s" begin="0.490s" fill="freeze"/></rect>
+<rect x="10" y="155.5" width="0" height="12.2"><animate attributeName="width" from="0" to="782.0" dur="0.55s" begin="0.525s" fill="freeze"/></rect>
+<rect x="10" y="165.7" width="0" height="12.2"><animate attributeName="width" from="0" to="782.0" dur="0.55s" begin="0.560s" fill="freeze"/></rect>
+<rect x="10" y="175.9" width="0" height="12.2"><animate attributeName="width" from="0" to="782.0" dur="0.55s" begin="0.595s" fill="freeze"/></rect>
+<rect x="10" y="186.1" width="0" height="12.2"><animate attributeName="width" from="0" to="782.0" dur="0.55s" begin="0.630s" fill="freeze"/></rect>
+<rect x="10" y="196.3" width="0" height="12.2"><animate attributeName="width" from="0" to="782.0" dur="0.55s" begin="0.665s" fill="freeze"/></rect>
+<rect x="10" y="206.5" width="0" height="12.2"><animate attributeName="width" from="0" to="782.0" dur="0.55s" begin="0.700s" fill="freeze"/></rect>
+<rect x="10" y="216.7" width="0" height="12.2"><animate attributeName="width" from="0" to="782.0" dur="0.55s" begin="0.735s" fill="freeze"/></rect>
+<rect x="10" y="226.9" width="0" height="12.2"><animate attributeName="width" from="0" to="782.0" dur="0.55s" begin="0.770s" fill="freeze"/></rect>
+<rect x="10" y="237.1" width="0" height="12.2"><animate attributeName="width" from="0" to="782.0" dur="0.55s" begin="0.805s" fill="freeze"/></rect>
+<rect x="10" y="247.3" width="0" height="12.2"><animate attributeName="width" from="0" to="782.0" dur="0.55s" begin="0.840s" fill="freeze"/></rect>
+<rect x="10" y="257.5" width="0" height="12.2"><animate attributeName="width" from="0" to="782.0" dur="0.55s" begin="0.875s" fill="freeze"/></rect>
+<rect x="10" y="267.7" width="0" height="12.2"><animate attributeName="width" from="0" to="782.0" dur="0.55s" begin="0.910s" fill="freeze"/></rect>
+<rect x="10" y="277.9" width="0" height="12.2"><animate attributeName="width" from="0" to="782.0" dur="0.55s" begin="0.945s" fill="freeze"/></rect>
+<rect x="10" y="288.1" width="0" height="12.2"><animate attributeName="width" from="0" to="782.0" dur="0.55s" begin="0.980s" fill="freeze"/></rect>
+<rect x="10" y="298.3" width="0" height="12.2"><animate attributeName="width" from="0" to="782.0" dur="0.55s" begin="1.015s" fill="freeze"/></rect>
+<rect x="10" y="308.5" width="0" height="12.2"><animate attributeName="width" from="0" to="782.0" dur="0.55s" begin="1.050s" fill="freeze"/></rect>
+<rect x="10" y="318.7" width="0" height="12.2"><animate attributeName="width" from="0" to="782.0" dur="0.55s" begin="1.085s" fill="freeze"/></rect>
+<rect x="10" y="328.9" width="0" height="12.2"><animate attributeName="width" from="0" to="782.0" dur="0.55s" begin="1.120s" fill="freeze"/></rect>
+<rect x="10" y="339.1" width="0" height="12.2"><animate attributeName="width" from="0" to="782.0" dur="0.55s" begin="1.155s" fill="freeze"/></rect>
+<rect x="10" y="349.3" width="0" height="12.2"><animate attributeName="width" from="0" to="782.0" dur="0.55s" begin="1.190s" fill="freeze"/></rect>
+<rect x="10" y="359.5" width="0" height="12.2"><animate attributeName="width" from="0" to="782.0" dur="0.55s" begin="1.225s" fill="freeze"/></rect>
+<rect x="10" y="369.7" width="0" height="12.2"><animate attributeName="width" from="0" to="782.0" dur="0.55s" begin="1.260s" fill="freeze"/></rect>
+<rect x="10" y="379.9" width="0" height="12.2"><animate attributeName="width" from="0" to="782.0" dur="0.55s" begin="1.295s" fill="freeze"/></rect>
+<rect x="10" y="390.1" width="0" height="12.2"><animate attributeName="width" from="0" to="782.0" dur="0.55s" begin="1.330s" fill="freeze"/></rect>
+<rect x="10" y="400.3" width="0" height="12.2"><animate attributeName="width" from="0" to="782.0" dur="0.55s" begin="1.365s" fill="freeze"/></rect>
+<rect x="10" y="410.5" width="0" height="12.2"><animate attributeName="width" from="0" to="782.0" dur="0.55s" begin="1.400s" fill="freeze"/></rect>
+<rect x="10" y="420.7" width="0" height="12.2"><animate attributeName="width" from="0" to="782.0" dur="0.55s" begin="1.435s" fill="freeze"/></rect>
+<rect x="10" y="430.9" width="0" height="12.2"><animate attributeName="width" from="0" to="782.0" dur="0.55s" begin="1.470s" fill="freeze"/></rect>
+<rect x="10" y="441.1" width="0" height="12.2"><animate attributeName="width" from="0" to="782.0" dur="0.55s" begin="1.505s" fill="freeze"/></rect>
+<rect x="10" y="451.3" width="0" height="12.2"><animate attributeName="width" from="0" to="782.0" dur="0.55s" begin="1.540s" fill="freeze"/></rect>
+<rect x="10" y="461.5" width="0" height="12.2"><animate attributeName="width" from="0" to="782.0" dur="0.55s" begin="1.575s" fill="freeze"/></rect>
+<rect x="10" y="471.7" width="0" height="12.2"><animate attributeName="width" from="0" to="782.0" dur="0.55s" begin="1.610s" fill="freeze"/></rect>
+<rect x="10" y="481.9" width="0" height="12.2"><animate attributeName="width" from="0" to="782.0" dur="0.55s" begin="1.645s" fill="freeze"/></rect>
+</clipPath></defs>
+<g clip-path="url(#wipe)" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="8.5px" xml:space="preserve">
+<text x="10" y="20.2"></text>
+<text x="10" y="30.4"></text>
+<text x="10" y="40.6"></text>
+<text x="10" y="50.8"></text>
+<text x="10" y="61.0"></text>
+<text x="10" y="71.2">                                      ....     .......</text>
+<text x="10" y="81.4">                                 ..`::::---:::::-----:::``:::``..</text>
+<text x="10" y="91.6">                              ..:-+*+-=++--=*cc**==-:---------===:`..</text>
+<text x="10" y="101.8">                             `=====---=+*+*****csssc*+++***++==-=*+=-:...</text>
+<text x="10" y="112.0">                           .:+-:-=**+*c###ssssscsssscsss#s##scss++**c+=--.</text>
+<text x="10" y="122.2">                  ....`````:++==+csccs#%%######sss###ss#######s##ccssc*+=`</text>
+<text x="10" y="132.4">               ..```:::::::++**csccssss#sc*+++++++******ccccccss###s##c*=:`.</text>
+<text x="10" y="142.6">             ..`:::-------++++*ccs####sc+=--------==============+c###sc*===-`.</text>
+<text x="10" y="152.8">           .`::--==++++===***c*cs###s*++==-----===========---::::=c##sc**c*-.</text>
+<text x="10" y="163.0">         .``:--=+****++=-+*ccss#sssc*======---------=---------::`:+cs#sccc=:.</text>
+<text x="10" y="173.2">        .`:--=+*cccc+=-:`+cccs##ssc*=------::::----------::```````:+ssscc*:.</text>
+<text x="10" y="183.4">       .`:-=++*ccc*+=-``.=css###s*=---=++++********++=+**+++++++===-+ssss+.</text>
+<text x="10" y="193.6">       .`-=+**cccc+=:``..:s#%##+:+++-:::-=+*cccc**scs*c++*ccc***+===*cs+c-.</text>
+<text x="10" y="203.8">       .:-=+*cccc*=-:`....*#%#+**+*::-=+-+ss**sc+-s*++s-+cccssc=*+==+*s*+.</text>
+<text x="10" y="214.0">      .`:=+*cccc*+=-:`..+*+csss====::-==++cc****++-:``-+-+*ccc*===:::-cs=:.</text>
+<text x="10" y="224.2">      .`-=+*cccc*+=-:`..+sc**sc-----:``:-====-=+c-``.``-+----==-::`:--***`.</text>
+<text x="10" y="234.4">      .`:=+*cccc*+=-:`...-*c##c----=-::-==+*c##+=-:::`.`-cc*++=--::::-*=.</text>
+<text x="10" y="244.6">      .`:=+*cccc*+=-:`....=*csc===------==+cscc*ssccc+*c=+csc*+=-:::--=.</text>
+<text x="10" y="254.8">      .`:-+**ccc*+=-:`....`++**=-======++*cc**cssc*cc*+**+=*cc*=--:---.</text>
+<text x="10" y="265.0">      .`:-=+*cc**+=-:``....:+**==++++++**cs###ss*****+=+c*cscc*+=====`.</text>
+<text x="10" y="275.2">      .`:-=+*****+=-:``.....```=++***ccc*s##s*=------:`:-+s##s**++==`.</text>
+<text x="10" y="285.4">       .:-=+*****+=-:``.....``.`+++**cc*cssc***csssssc*+==+csc**+==`.</text>
+<text x="10" y="295.6">       .:-=++****+=-::``````````+*++*cc***c******ccc*+===+**c++++-.</text>
+<text x="10" y="305.8">       .:--=+*****+==-------::`.:+**+******++****ccsc*+========+=.</text>
+<text x="10" y="316.0">       .`:-=++***c***++++=-`.....`=ccc********ccccsssc**+==+++*c=.`.</text>
+<text x="10" y="326.2">       .`:-==++**ccccc*+-`.  ..``.``=c#ssccccccccccccc*****ccss+`.:+.</text>
+<text x="10" y="336.4">       .`:--======--:`..      .``.```:-+ssssss###ssscccccccs#*:``..*+.</text>
+<text x="10" y="346.6">        .......                .-`.``::::=*ccccccsccccccs##*:`````.`c`</text>
+<text x="10" y="356.8">                                :-`.```:```:=+********css+:`````..`:*-.</text>
+<text x="10" y="367.0">                                .-:`.`````````-=****cc*=````````.`:-*=.</text>
+<text x="10" y="377.2">                                 `:`...````:+*=+=--===*=`.......```++=.</text>
+<text x="10" y="387.4">                                 .`:`..``:+*##s#sssssss#c+-:`...`:+++=.</text>
+<text x="10" y="397.6">                                  .`:``.. ..=##sssssc*c+=::-==:`:==-==.</text>
+<text x="10" y="407.8">                                    ..      .:s#ssssc*-:`.```:-::::=+*`</text>
+<text x="10" y="418.0">                                              .=ssc*#c:``````::-===+++=.</text>
+<text x="10" y="428.2">                                               .+ccccc+```::::::::::===.      ..</text>
+<text x="10" y="438.4">                                               `csssc++:```````.``:--==.     .--.</text>
+<text x="10" y="448.6">                                               :ssssc***=`````````::::..     ....</text>
+<text x="10" y="458.8">                                               `ssssc*****-```.````..</text>
+<text x="10" y="469.0">                                               .sssssc****c+`````..</text>
+<text x="10" y="479.2">                                               .c##sssc**ccs+...</text>
+<text x="10" y="489.4">                                               .+sssccc***ccc-.</text>
+<text x="10" y="499.6">                                                ..............</text>
+</g></svg>
