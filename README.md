@@ -1,40 +1,35 @@
 <div align="center">
 
-<h3><code>rahul@github ~ $ ./contributions.sh</code></h3>
+<h2><code>rahul@github:~$ ./contributions.sh</code></h2>
 
-<img src="./contrib-heatmap.svg" width="860" alt="Animated GitHub contribution heatmap" />
+<img src="./contrib-heatmap.svg" width="100%" alt="GitHub contribution heatmap" />
 
-<br><br>
-
-<h3><code>rahul@github ~ $ whoami</code></h3>
+<h2><code>rahul@github:~$ whoami</code></h2>
 
 <table>
 <tr>
-<td valign="top"><img src="./avi-ascii.svg" width="370" alt="ASCII portrait" /></td>
-<td valign="top"><img src="./info-card.svg" width="490" alt="Rahul Kumar profile information" /></td>
+<td width="42%" valign="middle" align="center"><img src="./avi-ascii.svg" width="100%" alt="Monochrome ASCII portrait of Rahul Kumar" /></td>
+<td width="58%" valign="middle"><img src="./info-card.svg" width="100%" alt="Rahul Kumar profile information" /></td>
 </tr>
 </table>
 
-<br>
-
-<sub>Self-hosted SVG profile art · No stats service · No token · Refreshed daily with GitHub Actions</sub>
+<p><code>ML / GenAI / Data Science</code> &nbsp; <code>Research + Software</code> &nbsp; <code>ECE @ BIT Mesra</code></p>
 
 </div>
 
 ---
 
-### `rahul@github ~ $ ls ~/projects`
+### `rahul@github:~$ ls ~/projects`
 
-- **[IIT_CHICAGO_Internship_project](https://github.com/rahulkumar123-123/IIT_CHICAGO_Internship_project)** — bioinformatics + ML research.
-- **[Parkinson-s-speech-detection-](https://github.com/rahulkumar123-123/Parkinson-s-speech-detection-)** — speech-based Parkinson's detection using Wav2Vec2/WavLM and deep learning.
-- **[cardmaxxing](https://github.com/rahulkumar123-123/cardmaxxing)** — India-specific credit-card recommendation platform.
-- **[customer-churn-analytics](https://github.com/rahulkumar123-123/customer-churn-analytics)** — customer churn analytics and prediction.
+| Project | What it does |
+|---|---|
+| [IIT Chicago Internship](https://github.com/rahulkumar123-123/IIT_CHICAGO_Internship_project) | Bioinformatics and machine-learning research |
+| [Parkinson's Speech Detection](https://github.com/rahulkumar123-123/Parkinson-s-speech-detection-) | Speech-based disease prediction with deep learning |
+| [cardmaxxing](https://github.com/rahulkumar123-123/cardmaxxing) | India-focused credit-card recommendation platform |
+| [Customer Churn Analytics](https://github.com/rahulkumar123-123/customer-churn-analytics) | Customer churn analysis and prediction |
 
-### `rahul@github ~ $ cat stack.txt`
+### `rahul@github:~$ cat stack.txt`
 
 `Python` · `C++` · `SQL` · `JavaScript` · `React` · `Node.js` · `MongoDB` · `Power BI` · `Machine Learning` · `Data Analysis`
 
-### `rahul@github ~ $ git status`
-
-`4th-year ECE student @ BIT Mesra` · `ML / GenAI / Data Science` · `Research + Software`
-
+<p align="center"><sub>Self-hosted SVG · No external stats service · Daily contribution refresh via GitHub Actions</sub></p>

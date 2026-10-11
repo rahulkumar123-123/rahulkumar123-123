@@ -1,21 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="570" height="360" viewBox="0 0 570 360">
-<style>
-.t{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
-.k{fill:#7ee787;font-weight:700} .v{fill:#c9d1d9} .sub{fill:#8b949e;font-size:13px}
-.row{opacity:0}
-@keyframes in{from{opacity:0;transform:translateX(12px)}to{opacity:1;transform:translateX(0)}}
-</style>
-<rect width="100%" height="100%" rx="10" fill="#0d1117" stroke="#30363d"/>
-<rect x="0" y="0" width="100%" height="42" rx="10" fill="#161b22"/>
-<circle cx="18" cy="21" r="5" fill="#ff7b72"/><circle cx="36" cy="21" r="5" fill="#d29922"/><circle cx="54" cy="21" r="5" fill="#3fb950"/>
-<text x="72" y="27" class="t" fill="#8b949e" font-size="14">rahul@github:~$ whoami</text>
-<text x="22" y="76" class="t" fill="#58a6ff" font-size="22" font-weight="700">Rahul Kumar</text>
-<text x="22" y="97" class="t sub">machine learning · genai · data · web</text>
-<line x1="22" y1="112" x2="548" y2="112" stroke="#30363d"/>
-<g class="row" style="animation:in .35s ease-out 0.00s forwards"><text x="22" y="140" class="t k" font-size="13">Education</text><text x="115" y="140" class="t v" font-size="13">4th Year B.Tech · Electronics & Communication</text><text x="115" y="155" class="t sub">BIT Mesra, Ranchi</text></g>
-<g class="row" style="animation:in .35s ease-out 0.12s forwards"><text x="22" y="175" class="t k" font-size="13">Focus</text><text x="115" y="175" class="t v" font-size="13">Machine Learning · GenAI · Data Science</text><text x="115" y="190" class="t sub">Full-stack development</text></g>
-<g class="row" style="animation:in .35s ease-out 0.24s forwards"><text x="22" y="210" class="t k" font-size="13">Research</text><text x="115" y="210" class="t v" font-size="13">Illinois Tech · Bioinformatics + ML</text><text x="115" y="225" class="t sub">HPA · TCGA · LINCS L1000</text></g>
-<g class="row" style="animation:in .35s ease-out 0.36s forwards"><text x="22" y="245" class="t k" font-size="13">Experience</text><text x="115" y="245" class="t v" font-size="13">Analytics Intern · MMM Amsterdam</text><text x="115" y="260" class="t sub">Power BI · US market analytics</text></g>
-<g class="row" style="animation:in .35s ease-out 0.48s forwards"><text x="22" y="280" class="t k" font-size="13">Role</text><text x="115" y="280" class="t v" font-size="13">Student Placement Coordinator</text><text x="115" y="295" class="t sub">BIT Mesra</text></g>
-<g class="row" style="animation:in .35s ease-out 0.60s forwards"><text x="22" y="315" class="t k" font-size="13">Projects</text><text x="115" y="315" class="t v" font-size="13">Parkinson’s speech detection</text><text x="115" y="330" class="t sub">Wav2Vec2 · WavLM · GRU · LSTM · SVM</text></g>
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="500" viewBox="0 0 620 500" role="img" aria-labelledby="title desc">
+<title id="title">Rahul Kumar profile</title><desc id="desc">Education, interests, research, experience and selected projects.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111827"/><stop offset="1" stop-color="#0b1220"/></linearGradient><style>
+.m{font-family:ui-monospace,SFMono-Regular,Consolas,monospace}.muted{fill:#94a3b8}.white{fill:#e5edf7}.green{fill:#86efac}.blue{fill:#7dd3fc}.purple{fill:#c4b5fd}.yellow{fill:#fde68a}.small{font-size:13px}.label{font-size:14px;font-weight:700}.value{font-size:14px}
+@keyframes fade{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}} .row{opacity:0;animation:fade .45s ease-out forwards}
+</style></defs>
+<rect x="1" y="1" width="618" height="498" rx="14" fill="url(#bg)" stroke="#334155" stroke-width="2"/>
+<path d="M1 52H619" stroke="#334155"/><circle cx="22" cy="26" r="5" fill="#fb7185"/><circle cx="40" cy="26" r="5" fill="#fbbf24"/><circle cx="58" cy="26" r="5" fill="#4ade80"/>
+<text x="78" y="31" class="m muted" font-size="15">rahul@github:~$ whoami</text>
+<text x="28" y="91" class="m green" font-size="30" font-weight="700">Rahul Kumar</text><text x="29" y="118" class="m muted" font-size="14">ECE · Machine Learning · Research · Software</text>
+<path d="M28 138H592" stroke="#334155"/>
+<g class="row" style="animation-delay:.05s"><text x="30" y="174" class="m blue label">EDUCATION</text><text x="165" y="174" class="m white value">B.Tech, Electronics &amp; Communication</text><text x="165" y="195" class="m muted small">BIT Mesra · Ranchi</text></g>
+<g class="row" style="animation-delay:.15s"><text x="30" y="231" class="m purple label">RESEARCH</text><text x="165" y="231" class="m white value">Illinois Tech · Bioinformatics + ML</text><text x="165" y="252" class="m muted small">Human Protein Atlas · TCGA · LINCS</text></g>
+<g class="row" style="animation-delay:.25s"><text x="30" y="288" class="m yellow label">EXPERIENCE</text><text x="165" y="288" class="m white value">Analytics Intern · MMM Amsterdam</text><text x="165" y="309" class="m muted small">Power BI · Market &amp; social analytics</text></g>
+<g class="row" style="animation-delay:.35s"><text x="30" y="345" class="m green label">ROLE</text><text x="165" y="345" class="m white value">Student Placement Coordinator</text><text x="165" y="366" class="m muted small">BIT Mesra</text></g>
+<g class="row" style="animation-delay:.45s"><text x="30" y="402" class="m blue label">FOCUS</text><text x="165" y="402" class="m white value">ML · GenAI · Data Science · Full Stack</text><text x="165" y="423" class="m muted small">Python · C++ · SQL · React · Node.js</text></g>
+<path d="M28 449H592" stroke="#334155"/><text x="30" y="475" class="m muted small">Building useful things with data, models and code.</text>
 </svg>
